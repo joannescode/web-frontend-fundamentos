@@ -16,7 +16,7 @@ body {
 }
 
 .main-title {
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   text-transform: uppercase;
   letter-spacing: 5px;
   font-size: 48px;
@@ -59,8 +59,9 @@ body {
 
 .list-item__action {
   display: flex;
-  background-color: #ffffff;
+  background-color: #e2e2e2;
   padding: 16px;
   justify-content: space-evenly;
   gap: 16px;
+  border-radius: 6px;
 }
